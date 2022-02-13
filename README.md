@@ -7,6 +7,8 @@ You really love text based MS DOS interface? You love the late 90's/early 00's d
 
 Then this calculator is for you! Just copy the source code below into your IDE, compile and run!
 
+The code does not use any libraries except #include <iostream>
+
 # Update February 13, 2022
 Added the check if the input is a valid number
 
