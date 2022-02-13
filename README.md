@@ -12,3 +12,4 @@ Added the check if the input is a valid number
 
 Added factorial function
 
+The code became a bit more cleaner
